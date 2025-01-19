@@ -1,0 +1,1 @@
+First CSS assignment to create an html and css code for an image.
