@@ -1,3 +1,2 @@
 CSS assignment from ALT School
-assignment3- created an html and css code for an image
-assignment4-
+using HTML and CSS to recreate different images from Figma
