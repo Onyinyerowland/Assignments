@@ -8,14 +8,34 @@ body {
     border-radius: 10px  bold black;
     
 }
-@media(min-width:600px) {
+.block {
+    text-align: center;
+    padding: 20px;
+    flex-wrap: wrap;
+    border: 1px solid black;
+    border-radius: 5px;
+    display: flex;
+}
+@media(max-width:767px){
     .block{
-        width: 80%;
+        width: 100px;
+        font-size: 14px;
+    }
+}
+@media(min-width:768px) {
+    .block{
+        width: 48%;
+        font-size: 16px;
+        margin-right: 4%;
+       
     }
 }
 @media(min-width:1024px) {
     .block{
-        width: 60%;
+        width: 31%;
+        font-size: 16px;
+        margin-right: 3.5%;
+      
     }
 }
 .container {

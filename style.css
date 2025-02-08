@@ -11,15 +11,20 @@
         font-family: Arial, sans-serif;
         align-content: center; 
         display: flex;
+        text-align: center;
+        font-size: 14px;
+        flex-wrap: wrap;
 }
 @media(min-width:600px) {
     .container{
         width: 80%;
+        font-size: 16px;
     }
 }
 @media(min-width:1024px) {
     .container{
         width: 60%;
+        font-size: 18px;
     }
 }
 
