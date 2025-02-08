@@ -10,6 +10,7 @@
     margin: 20px;
     font-family: Arial, sans-serif;
     align-content: center;
+    display: flex;
 }
 .new {
     align-content: center;
@@ -47,6 +48,7 @@
 }
 [class*="container"] {
     width: 100%;
+    display: flex;
   }
   
   @media only screen and (min-width: 600px) {

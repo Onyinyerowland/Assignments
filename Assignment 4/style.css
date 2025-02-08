@@ -179,7 +179,8 @@ p-one {
     * {
         box-sizing: border-box;
     }
-    [class*="container"] {
+    
+    [class*="info-panel"] {
         width: 100%;
       }
       
